@@ -1,0 +1,92 @@
+*{
+    margin: 2px;
+    padding: 2px;
+}
+body{
+   
+    width: 30%;
+    height: 100%;
+    justify-content: center;
+
+}
+.main{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(160, 197, 184);
+    margin: 0 auto;
+    justify-content: center;
+}
+.first{
+    display: flex;
+    background-color: rgb(201, 103, 135);
+}
+.second{
+    display: flex;
+    background-color: rgb(201, 103, 135);
+}
+.video{
+    display: flex;
+    background-color: rgb(201, 103, 135);
+    width: 100%;
+    margin: 0 auto;
+}
+.img1{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTs0u2VEfE6qbNVT0oBm1wMSOWsm483tZKvA&s");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 150%;
+    height: 3cm;
+
+}
+.img2{
+    background-image: url("https://cdn.siasat.com/wp-content/uploads/2024/05/lsg-rahuk.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 3cm;
+
+
+}
+.fr{
+    background-image: url("https://www.royalchallengers.com/PRRCB01/public/styles/1061x767_landscape/public/2020-05/kl.jpg?h=19a913f8&itok=JVFkeeZZ");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 3cm;
+}
+.sr{
+    background-image: url('https://static.indiatvnews.com/ins-web/images/rahul-1538564290.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 3cm;
+}
+.tr{
+    background-image: url('https://crictoday.com/wp-content/uploads/2025/01/KL-Rahul-1-800x600.webp?crop=1');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 3cm;
+    display: flex;
+}
+
+.video{
+    background-color: rgb(201, 103, 135);;
+    width: 100%;
+    height:5cm;
+    display: flex;
+  flex-direction: row;
+
+}
+button{
+    background-color: rgb(201, 103, 135);
+    color: white;
+    padding: 10px 20px;
+    margin: 20px auto;
+    border-radius: 2px;
+    width: 30%;
+    margin-left: 30%;
+    
+    
+}
+
